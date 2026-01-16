@@ -1,1 +1,1 @@
-# git-practice(PCで編集)
+# git-practice (PCとGitHubの両方で編集して競合を解決しました！)
